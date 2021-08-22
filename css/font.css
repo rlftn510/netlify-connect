@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "AppleSDGothic";
+  font-weight: 500;
+  src: url(font/AppleSDGothicNeoSB.woff) format("woff");
+}
+@font-face {
+  font-family: "AppleSDGothic";
+  font-weight: 400;
+  src: url(font/AppleSDGothicNeoL.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Hgg";
+  font-weight: 400;
+  src: url(font/HGGGothicssi40gA.woff) format("woff");
+}
+@font-face {
+  font-family: "maison";
+  src: url(font/MaisonNeueExtendedWEB-Demi.woff) format("woff"),
+    url(font/MaisonNeueExtendedWEB-Demi.woff2) format("woff2");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "maison bold";
+  src: url(font/MaisonNeueWEB-Bold.woff) format("woff"),
+    url(font/MaisonNeueWEB-Bold.woff) format("woff2");
+  font-weight: bold;
+}
